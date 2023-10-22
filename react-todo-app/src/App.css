@@ -1,0 +1,30 @@
+.app{
+  text-align: center;
+  margin-top: 50px;
+}
+
+.input-container{
+  margin-bottom: 20px;
+}
+
+.todo{
+  display: flex;
+  justify-content: space-between;
+  background-color: #fff;
+  padding: 10px;
+  margin: 5px 0;
+  border-radius: 5px;
+}
+
+button {
+  background-color: #ff6f61;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 5px,10px;
+  cursor: pointer;
+}
+
+button:hover{
+  background-color: #e05d5a;
+}
